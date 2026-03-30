@@ -1,5 +1,5 @@
 {
-  "version": "2.3.4",
+  "version": "2.3.5",
   "notes": "- បន្ថែម Bell Notification Update\n- Video Info Feature\n- Extract Thumbnail\n- Volume Control\n- Subtitle Editor\n- Multi-language Translation",
   "download_url": "https://github.com/veunchivet/VideoDubber/releases/latest"
 }
