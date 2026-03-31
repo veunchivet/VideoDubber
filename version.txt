@@ -1,5 +1,5 @@
 {
   "version": "3.0.0",
-  "notes": "- GPU Label ថ្មី\n- Update Button\n- មានចំងល់អាចសួរបាន \n- Video Info Feature\n- Multi-language Translation",
+  "notes": "- GPU Label ថ្មី\n- Update Button\n- មានចំងល់អាចសួរបាន\n- Video Info Feature\n- Multi-language Translation",
   "download_url": "https://github.com/veunchivet/VideoDubber/releases/latest"
 }
