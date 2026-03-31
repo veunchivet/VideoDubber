@@ -1,5 +1,5 @@
 {
-  "version": "99.0.0",
+  "version": "3.0.0",
   "notes": "- បន្ថែម Bell Notification Update\n- Video Info Feature\n- Extract Thumbnail\n- Volume Control\n- Subtitle Editor\n- Multi-language Translation",
   "download_url": "https://github.com/veunchivet/VideoDubber/releases/latest"
 }
