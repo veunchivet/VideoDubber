@@ -1,5 +1,5 @@
 {
-  "version": "3.8",
-  "notes": "- GPU Label ថ្មី\n- EditVideo\n- Download video\n- Video Info Feature\n- Multi-language Translation",
+  "version": "3.9",
+  "notes": "- Story TSS ថ្មី\n- Speep Sound \n- Render Sound\n- Font Edit\n- មានមុខងារជាច្រើនទៀត ",
   "download_url": "https://github.com/veunchivet/VideoDubber/releases/latest"
 }
